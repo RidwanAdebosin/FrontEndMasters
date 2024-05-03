@@ -108,3 +108,48 @@ header h1 {
   background-size: 100% 35%;
   background-position: 0 90%;
 }
+
+.colors > * {
+    width: 5rem;
+    height: 2rem;
+    display: inline-block;
+    text-align: center;
+    padding: 1rem 0;
+    margin: 1rem;
+    border: 1px solid var(--coffee);
+}
+
+.white {
+    background-color: var(--white);
+}
+
+.green {
+    background-color: var(--green);
+}
+
+.coffee {
+    background-color: var(--coffee);
+}
+
+.vanila {
+    background-color: var(--vanilla);
+}
+
+.lemon {
+    background-color: var(--lemon);
+}
+
+.mocha {
+    background-color: var(--mocha);
+}
+
+.tan {
+    background-color: var(--tan);
+}
+
+.blue {
+    background-color: var(--blue);
+}
+
+
+
